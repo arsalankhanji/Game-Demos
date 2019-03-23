@@ -1,0 +1,13 @@
+{
+"companyName": "Khan",
+"productName": "LameBall",
+"dataUrl": "LameBall_v01.data.unityweb",
+"wasmCodeUrl": "LameBall_v01.wasm.code.unityweb",
+"wasmFrameworkUrl": "LameBall_v01.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
